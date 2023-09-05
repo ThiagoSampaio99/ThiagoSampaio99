@@ -2,7 +2,9 @@
 
 Sou um progamador junior interessado no mundo de dados.
 
-![ThiagoSampaio99 GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosampaio99&show_icons=true&theme=radical)
+## Projeto
+
+- [Projeto Café](https://github.com/ThiagoSampaio99/Projeto_Cafe)
 
 ## Tecnologias que uso
 
@@ -18,7 +20,3 @@ Sou um progamador junior interessado no mundo de dados.
 </div><br/>
 
 Explorando o universo dos dados com paixão e curiosidade, em busca das histórias que números podem contar.
-
-## Projeto
-
-- [Projeto Café](https://github.com/ThiagoSampaio99/Projeto_Cafe)
